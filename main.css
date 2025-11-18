@@ -27,7 +27,6 @@ body {
   overflow: hidden;
 }
 
-/* 🔹 Бегущая строка сверху */
 .marquee {
   position: absolute;
   top: 0;
@@ -52,7 +51,6 @@ body {
   100% { transform: translateX(-100%); }
 }
 
-/* Центральный текст */
 .center-text {
   position: absolute;
   top: 50%;
